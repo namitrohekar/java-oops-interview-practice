@@ -1,6 +1,26 @@
+
+
+
+# Ignore everything by default
+*
+
+# Allow src directory
+!src/
+!src/**/
+
+# Allow Java source files
+!*.java
+
+# --- Eclipse specific junk ---
 /bin/
 /target/
 /.settings/
 /.classpath
 .project
 .metadata
+
+# --- OS / editor junk ---
+*.tmp
+~$*
+~WRL*.tmp
+.DS_Store
