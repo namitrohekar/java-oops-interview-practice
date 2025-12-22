@@ -9,3 +9,12 @@ Day 1:
 - Business logic
 - State handling
 - Aggregation
+
+ Day 2: Encapsulation
+- Getters and setters
+- Validation inside setters
+- Read-only fields
+- Controlled update methods
+- Immutable class design
+- Defensive setters
+- State safety
