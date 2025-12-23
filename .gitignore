@@ -7,7 +7,7 @@
 .metadata
 .classpath
 .settings
-
+.bin
 # OS / editor junk
 *.tmp
 ~$*
