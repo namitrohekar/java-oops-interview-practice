@@ -18,3 +18,13 @@ Day 1:
 - Immutable class design
 - Defensive setters
 - State safety
+
+Day 3: Inheritance & Polymorphism
+- Inheritance using `extends`
+- Constructor chaining with `super`
+- Method overriding
+- Overriding vs overloading
+- Runtime polymorphism
+- Parent reference → child object
+- `final` methods in inheritance
+- Dynamic method dispatch
