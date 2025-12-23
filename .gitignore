@@ -1,28 +1,14 @@
-
-
-
-# Ignore everything by default
-*
-
-# Allow src directory
-!src/
-!src/**/
-
-# Allow Java source files
-!*.java
-
-# --- Eclipse specific junk ---
+# Ignore IDE and build output
 /bin/
 /target/
 /.settings/
 /.classpath
-.classpath
-.settings
 .project
 .metadata
+.classpath
+.settings
 
-
-# --- OS / editor junk ---
+# OS / editor junk
 *.tmp
 ~$*
 ~WRL*.tmp
