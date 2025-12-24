@@ -28,3 +28,12 @@ Day 3: Inheritance & Polymorphism
 - Parent reference → child object
 - `final` methods in inheritance
 - Dynamic method dispatch
+
+ Day 4: Abstraction
+- Abstract classes
+- Abstract methods
+- Partial abstraction
+- Abstract class constructors
+- Runtime polymorphism with abstract references
+- Abstract vs concrete method control
+- Template Method pattern (intro)
