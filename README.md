@@ -3,14 +3,14 @@
 Daily Java OOP interview-oriented practice.
 Focus: clean code, constructors, methods, collections.
 
-Day 1:
+Day 1: / OOPA_1
 - Class & Object
 - Constructor overloading
 - Business logic
 - State handling
 - Aggregation
 
- Day 2: Encapsulation
+ Day 2: Encapsulation / OOPS_2
 - Getters and setters
 - Validation inside setters
 - Read-only fields
@@ -19,7 +19,7 @@ Day 1:
 - Defensive setters
 - State safety
 
-Day 3: Inheritance & Polymorphism
+Day 3: Inheritance & Polymorphism /OOPS_3
 - Inheritance using `extends`
 - Constructor chaining with `super`
 - Method overriding
@@ -29,7 +29,7 @@ Day 3: Inheritance & Polymorphism
 - `final` methods in inheritance
 - Dynamic method dispatch
 
- Day 4: Abstraction
+ Day 4: Abstraction / OOPS_4
 - Abstract classes
 - Abstract methods
 - Partial abstraction
@@ -37,3 +37,12 @@ Day 3: Inheritance & Polymorphism
 - Runtime polymorphism with abstract references
 - Abstract vs concrete method control
 - Template Method pattern (intro)
+
+Day 5: Interfaces / OOPS_5
+- Interface basics
+- `implements`
+- Multiple inheritance using interfaces
+- Interface references and polymorphism
+- Default methods in interfaces
+- Interface vs abstract class
+- Default method conflict (diamond problem)
