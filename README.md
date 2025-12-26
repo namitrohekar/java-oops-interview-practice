@@ -46,3 +46,17 @@ Day 5: Interfaces / OOPS_5
 - Default methods in interfaces
 - Interface vs abstract class
 - Default method conflict (diamond problem)
+
+Day 6: Object Class & Type Casting / OOPS_6
+- Object class fundamentals
+- toString() and meaningful object representation
+- equals() vs == (identity vs logical equality)
+- Proper equals() implementation checklist
+- hashCode() contract and rules
+- equals() + hashCode() consistency
+- Hash-based collection behavior (HashSet / HashMap)
+- Upcasting (implicit, safe)
+- Downcasting (explicit, unsafe without checks)
+- instanceof usage
+- ClassCastException trap
+- Runtime type behavior and polymorphism impact
