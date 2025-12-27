@@ -60,3 +60,14 @@ Day 6: Object Class & Type Casting / OOPS_6
 - instanceof usage
 - ClassCastException trap
 - Runtime type behavior and polymorphism impact
+
+Day 7: Object Relationships & Design / OOPS_7
+- IS-A relationship (inheritance correctness)
+- HAS-A relationship (object ownership)
+- Composition (strong ownership, lifecycle dependency)
+- Aggregation (weak ownership, independent lifecycle)
+- Composition vs aggregation differences
+- Choosing composition over inheritance
+- Design correction: fixing wrong inheritance
+- Real-world object modeling
+- Interview design decision reasoning
