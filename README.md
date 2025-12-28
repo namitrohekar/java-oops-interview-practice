@@ -71,3 +71,13 @@ Day 7: Object Relationships & Design / OOPS_7
 - Design correction: fixing wrong inheritance
 - Real-world object modeling
 - Interview design decision reasoning
+
+Day 8 Topics / OOPS_8
+- What exceptions really are (error vs failure)
+- Checked vs unchecked exceptions
+- try–catch–finally
+- Exception propagation
+- When to throw vs when to handle
+- Creating custom exceptions
+- Business-rule violations vs system failures
+- Interview exception traps
