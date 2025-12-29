@@ -81,3 +81,18 @@ Day 8 Topics / OOPS_8
 - Creating custom exceptions
 - Business-rule violations vs system failures
 - Interview exception traps
+
+Day 9: SOLID Principles (Practical Design) / OOPS_9
+- Single Responsibility Principle (SRP)
+- Separating business logic, persistence, and communication
+- Execution flow vs responsibility boundaries
+- Open/Closed Principle (OCP) using polymorphism
+- Eliminating conditionals with abstractions
+- Liskov Substitution Principle (LSP) and inheritance pitfalls
+- Correct modeling using shared abstractions
+- Interface Segregation Principle (ISP)
+- Designing small, focused interfaces
+- Dependency Inversion Principle (DIP)
+- Depending on abstractions instead of concrete implementations
+- Constructor-based dependency injection
+- Design patterns aligned with Spring-style architecture
