@@ -96,3 +96,19 @@ Day 9: SOLID Principles (Practical Design) / OOPS_9
 - Depending on abstractions instead of concrete implementations
 - Constructor-based dependency injection
 - Design patterns aligned with Spring-style architecture
+
+Day 10: Collections + Design Integration / OOPS_10
+- Choosing the right collection (List vs Set vs Map) based on business rules
+- Enforcing business uniqueness using collections
+- equals() / hashCode() impact on collection behavior
+- Identity-based vs value-based uniqueness
+- Repository pattern with collections
+- Applying SRP with collection ownership
+- Moving storage responsibility out of services
+- Using Map to model primary-key–based identity (Spring/JPA analogy)
+- Applying DIP to collection storage
+- Abstracting storage behind interfaces
+- Swapping collection strategies without changing service logic
+- Constructor injection for storage abstraction
+- Deigning in-memory repositories aligned with real backend systems
+- Integrating OOP + SOLID + Collections in interview-style problems
