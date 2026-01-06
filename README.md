@@ -112,3 +112,23 @@ Day 10: Collections + Design Integration / OOPS_10
 - Constructor injection for storage abstraction
 - Deigning in-memory repositories aligned with real backend systems
 - Integrating OOP + SOLID + Collections in interview-style problems
+
+
+ Day 11: Java Collections / OOPS_11
+
+- Choosing the right collection based on business constraints  
+- `List` vs `Set` vs `Map` decision-making  
+- Enforcing uniqueness using `Set` and `Map`  
+- Ordering guarantees in collections  
+  - No order (`HashSet`)  
+  - Insertion order (`LinkedHashSet`)  
+  - Sorted order (`TreeSet`)  
+- Duplicate handling across different collection types  
+- Iteration behavior and fail-fast mechanism  
+- `ConcurrentModificationException` causes and fixes  
+- Correct use of `Iterator.remove()`  
+- Snapshot-based iteration using `CopyOnWriteArrayList`  
+- `Map` overwrite behavior on duplicate keys  
+- `HashMap` null key and null value rules  
+- Key-based identity vs value-based equality  
+- Collection behavior demonstrated through code, not theory  
